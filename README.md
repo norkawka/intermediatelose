@@ -1,1 +1,72 @@
-# intermediatelose
+*-- [[*
+*-- Towers: Scout, Demoman, Shotgunner, Rocketeer, Pyromancer*
+*-- Mode: Intermediate*
+*-- GameInfo: Unknown*
+*-- Map: *
+*-- Modifiers: None*
+*-- ]]*
+-- [[ Wave 1 ]] --
+PSH:Place("Scout", 16.175, 1.000, -22.376)
+PSH:Place("Scout", 12.047, 1.000, -30.485)
+PSH:Upgrade(2)
+PSH:Upgrade(1)
+
+-- [[ Wave 2 ]] --
+PSH:Upgrade(2)
+PSH:Upgrade(1)
+
+-- [[ Wave 4 ]] --
+PSH:Place("Pyromancer", 13.466, 1.000, -33.643)
+PSH:Upgrade(3)
+
+-- [[ Wave 6 ]] --
+PSH:Upgrade(3)
+PSH:Place("Demoman", 13.996, 1.000, -17.525)
+PSH:Upgrade(4)
+PSH:Upgrade(2)
+
+-- [[ Wave 7 ]] --
+PSH:Place("Scout", 8.008, 1.000, -24.988)
+PSH:Upgrade(5)
+PSH:Upgrade(5)
+PSH:Place("Scout", 12.088, 1.000, -23.521)
+
+-- [[ Wave 8 ]] --
+PSH:Place("Scout", 18.151, 1.000, -29.751)
+PSH:Upgrade(6)
+PSH:Upgrade(7)
+PSH:Upgrade(6)
+PSH:Upgrade(7)
+PSH:Upgrade(4)
+
+-- [[ Wave 9 ]] --
+PSH:Upgrade(3)
+
+-- [[ Wave 10 ]] --
+PSH:Place("Demoman", 15.092, 1.000, -30.742)
+PSH:Upgrade(8)
+PSH:Upgrade(8)
+
+-- [[ Wave 11 ]] --
+PSH:Upgrade(4)
+
+-- [[ Wave 12 ]] --
+PSH:Upgrade(2)
+PSH:Upgrade(8)
+
+-- [[ Wave 13 ]] --
+PSH:Upgrade(1)
+PSH:Upgrade(6)
+PSH:Upgrade(5)
+
+-- [[ Wave 14 ]] --
+PSH:Place("Pyromancer", 10.761, 1.000, -17.372)
+PSH:Upgrade(9)
+PSH:Upgrade(9)
+
+-- [[ Wave 15 ]] --
+PSH:Upgrade(9)
+PSH:Place("Scout", 9.973, 1.000, -13.972)
+PSH:Upgrade(10)
+PSH:Upgrade(10)
+
